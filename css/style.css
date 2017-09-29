@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body{
+  font-family: open sans;
+}
+header{
+  height: 60px;
+  background-color: rgb(81,197,141);
+  width: 60%;
+  margin-left: 800px;
+}
+
+.logo{
+  width: auto;
+  float: left;
+  color: white;
+}
+.nav{
+  float:right;
+  width: auto;
+  background-color: rgb(81,197,141);
+}
+
+#welcomelogo{
+  width: auto;
+  float: left;
+}
+#welcomelogo img{
+  float: left;
+  width: 55%;
+  height: 400px;
+}
+#welcomelogo h2{
+  background-color: blue;
+  height: 100px;
+  width: 45%;
+  color: white;
+  float: left;
+  text-align: center;
+  margin: 0;
+  padding: 150px 0;
+}
+section {
+  float: left;
+  width: 60%;
+  margin: 0 20%;
+}
+
+#cats{
+  background-color: #ffd166;
+  padding: 25px 5%;
+  width: 50% !important;
+  float: left;
+}
+#cats h3 {
+  font-weight: bold;
+}
+
+#products{
+  background-color: #f2f2f2;
+  padding: 25px 5%;
+  width: 50% !important;
+}
+#products h4{
+  font-weight: 900;
+}
+
+#products img{
+  float: left;
+  width: 150px;
+  height: 150px;
+  border: 3px solid black;
+  margin: 5%;
+}
+
+
+#finalparagraph{
+  background-color: #26547c;
+}
+
+#finalparagraph h5{
+  font: pink;
+  float: left;
+  width: 33.3%;
+  text-align: center;
+  color: #ef4773;
+  font-size: 28px;
+  padding: 10px 0;
+}
+#finalparagraph p{
+  color: white;
+  padding: 5px 5%;
+  font-size: 20px
+}
+
+footer{
+  float: left;
+  background-color: green;
+  text-align: right;
+  width: 9%;
+  padding: 15px 5%;
+
+}
